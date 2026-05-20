@@ -10,7 +10,7 @@ public class Problem_15_VotingEligibility {
         System.out.println("Citizenship Status (True/False): ");
         boolean c = input.nextBoolean();
 
-        if (age>=18 && c==true){
+        if (age>=18 && c){
             System.out.println("Eligible.");
         }else {
             System.out.println("Not Eligible.");
