@@ -34,8 +34,6 @@ This repository serves as a practical portfolio of Java problem-solving skills. 
 
 ---
 
-## 📋 Problem List
-
 | # | Problem | Description |
 |---|---------|-------------|
 | 1 | Integer or Decimal Check | Determines whether a number is an integer or decimal |
@@ -53,7 +51,15 @@ This repository serves as a practical portfolio of Java problem-solving skills. 
 | 13 | Largest of Three Numbers | Finds the maximum among three inputs |
 | 14 | Compound Interest | Computes compound interest over time |
 | 15 | Voting Eligibility | Checks age-based eligibility (≥ 18) |
-| … | *(30 more problems)* | Covering additional Java topics |
+| 16 | Discounted Price | Computes the final price after applying a discount percentage |
+| 17 | Number Sign Check | Identifies whether a number is positive, negative, or zero |
+| 18 | Day of the Week | Maps a number (1–7) to the corresponding day name |
+| 19 | Vowel or Consonant | Checks whether a character is a vowel or consonant |
+| 20 | Factorial Calculation | Computes the factorial of a given number |
+| 21 | Grade Points | Converts a percentage into a letter grade (A, B, C, etc.) |
+| 22 | Sum of Even Numbers | Calculates the sum of all even numbers up to a given limit |
+| 23 | Valid Number Input | Validates whether a string contains a valid numeric value |
+| … | *(27 more problems)* | Covering additional Java topics |
 
 ---
 
