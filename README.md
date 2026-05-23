@@ -34,32 +34,35 @@ This repository serves as a practical portfolio of Java problem-solving skills. 
 
 ---
 
-| # | Problem | Description |
-|---|---------|-------------|
-| 1 | Integer or Decimal Check | Determines whether a number is an integer or decimal |
-| 2 | Area of a Circle | Calculates area given a radius |
-| 3 | Boolean Opposite | Returns the logical opposite of a boolean |
-| 4 | Temperature Range Check | Validates if temperature falls within 18–24°C |
-| 5 | String to Number Conversion | Parses a numeric string to a number type |
-| 6 | Pounds to Kilograms | Converts weight units |
-| 7 | Float to Double Conversion | Demonstrates precision widening |
-| 8 | Percentage Calculation | Computes part-to-total percentage |
-| 9 | Kelvin to Celsius | Converts temperature scales |
-| 10 | Even or Odd | Classifies an integer by parity |
-| 11 | Arithmetic Operations | Performs `+`, `-`, `*`, `/` with user input |
-| 12 | Leap Year Check | Validates leap year logic |
-| 13 | Largest of Three Numbers | Finds the maximum among three inputs |
-| 14 | Compound Interest | Computes compound interest over time |
-| 15 | Voting Eligibility | Checks age-based eligibility (≥ 18) |
-| 16 | Discounted Price | Computes the final price after applying a discount percentage |
-| 17 | Number Sign Check | Identifies whether a number is positive, negative, or zero |
-| 18 | Day of the Week | Maps a number (1–7) to the corresponding day name |
-| 19 | Vowel or Consonant | Checks whether a character is a vowel or consonant |
-| 20 | Factorial Calculation | Computes the factorial of a given number |
-| 21 | Grade Points | Converts a percentage into a letter grade (A, B, C, etc.) |
-| 22 | Sum of Even Numbers | Calculates the sum of all even numbers up to a given limit |
-| 23 | Valid Number Input | Validates whether a string contains a valid numeric value |
-| … | *(27 more problems)* | Covering additional Java topics |
+| #  | Problem                     | Description |
+|----|-----------------------------|-------------|
+| 1  | Integer or Decimal Check    | Determines whether a number is an integer or decimal |
+| 2  | Area of a Circle            | Calculates area given a radius |
+| 3  | Boolean Opposite            | Returns the logical opposite of a boolean |
+| 4  | Temperature Range Check     | Validates if temperature falls within 18–24°C |
+| 5  | String to Number Conversion | Parses a numeric string to a number type |
+| 6  | Pounds to Kilograms         | Converts weight units |
+| 7  | Float to Double Conversion  | Demonstrates precision widening |
+| 8  | Percentage Calculation      | Computes part-to-total percentage |
+| 9  | Kelvin to Celsius           | Converts temperature scales |
+| 10 | Even or Odd                 | Classifies an integer by parity |
+| 11 | Arithmetic Operations       | Performs `+`, `-`, `*`, `/` with user input |
+| 12 | Leap Year Check             | Validates leap year logic |
+| 13 | Largest of Three Numbers    | Finds the maximum among three inputs |
+| 14 | Compound Interest           | Computes compound interest over time |
+| 15 | Voting Eligibility          | Checks age-based eligibility (≥ 18) |
+| 16 | Discounted Price            | Computes the final price after applying a discount percentage |
+| 17 | Number Sign Check           | Identifies whether a number is positive, negative, or zero |
+| 18 | Day of the Week             | Maps a number (1–7) to the corresponding day name |
+| 19 | Vowel or Consonant          | Checks whether a character is a vowel or consonant |
+| 20 | Factorial Calculation       | Computes the factorial of a given number |
+| 21 | Grade Points                | Converts a percentage into a letter grade (A, B, C, etc.) |
+| 22 | Sum of Even Numbers         | Calculates the sum of all even numbers up to a given limit |
+| 23 | Valid Number Input          | Validates whether a string contains a valid numeric value |
+| 24 | Store and Print Names | Stores and prints a list of names |
+| 25 | Sum of Integers       | Sums integers in a list            |
+| 26 | Unique Values         | Removes duplicates from a list     |
+| …  | *(24 more problems)*        | Covering additional Java topics |
 
 ---
 
