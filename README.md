@@ -59,10 +59,13 @@ This repository serves as a practical portfolio of Java problem-solving skills. 
 | 21 | Grade Points                | Converts a percentage into a letter grade (A, B, C, etc.) |
 | 22 | Sum of Even Numbers         | Calculates the sum of all even numbers up to a given limit |
 | 23 | Valid Number Input          | Validates whether a string contains a valid numeric value |
-| 24 | Store and Print Names | Stores and prints a list of names |
-| 25 | Sum of Integers       | Sums integers in a list            |
-| 26 | Unique Values         | Removes duplicates from a list     |
-| …  | *(24 more problems)*        | Covering additional Java topics |
+| 24 | Store and Print Names       | Stores and prints a list of names |
+| 25 | Sum of Integers             | Sums integers in a list            |
+| 26 | Unique Values               | Removes duplicates from a list     |
+| 27 | Largest Number in ArrayList | Finds the largest number in an ArrayList |
+| 28 | Reverse Strings             | Reverses a string                        |
+| 29 | Average of Positive Numbers | Calculates the average of positive numbers |
+| …  | *(21 more problems)*        | Covering additional Java topics |
 
 ---
 
@@ -72,7 +75,7 @@ This repository serves as a practical portfolio of Java problem-solving skills. 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/java-programming-solutions.git
+git clone https://github.com/fahim-shahriar-sqa/java-problem-solving.git
 cd java-programming-solutions
 
 # Compile a specific solution
