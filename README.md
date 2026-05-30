@@ -65,6 +65,9 @@ This repository serves as a practical portfolio of Java problem-solving skills. 
 | 27 | Largest Number in ArrayList | Finds the largest number in an ArrayList |
 | 28 | Reverse Strings            | Reverses a string                        |
 | 29 | Average of Positive Numbers | Calculates the average of positive numbers |
+| 30 | Number Search in ArrayList | Searches for a number in an ArrayList |
+| 31 | Square of a Number         | Computes the square of a number |
+| 32 | String Length              | Returns the length of a string |
 | …  | *(18 more problems)*       | Covering additional Java topics |
 
 ---
